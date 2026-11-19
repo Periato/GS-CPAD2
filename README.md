@@ -74,6 +74,29 @@ O protótipo utiliza informações sintéticas e não depende de dados pessoais 
 
 A interface utiliza componentes visuais, textos explicativos e indicadores para facilitar a compreensão das informações.
 
+## Telas do aplicativo
+
+O AlertaBairro apresenta seis telas principais para monitoramento territorial, acompanhamento de ocorrências e apoio à tomada de decisão.
+
+### 1. Visão geral
+<img width="1361" height="633" alt="image" src="https://github.com/user-attachments/assets/cba57d8b-0b2a-4efb-b340-5db31070ad9f" />
+
+
+### 2. Monitoramento de chuvas
+
+
+### 3. Ocorrências por região
+
+
+### 4. Impacto social
+
+
+### 5. Central de alertas
+
+
+### 6. Registro de ocorrência
+
+
 ## Tecnologias utilizadas
 
 - **Flutter:** desenvolvimento da aplicação multiplataforma.
