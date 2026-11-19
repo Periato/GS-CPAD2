@@ -171,9 +171,13 @@ flutter run
 
 Vídeo de apresentação do aplicativo:
 
-[Inserir link do vídeo]
+(https://drive.google.com/drive/folders/1dw95rA1bWkGiLZlr10FjmcWG9DprUoEi?usp=sharing)
 
 ## Equipe
 
 - Pedro Miranda: 562117
 - Israel Karacsony: 563435
+
+## Licença
+
+Projeto desenvolvido para fins acadêmicos no contexto da FIAP Global Solution 2026.2.
