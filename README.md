@@ -83,18 +83,23 @@ O AlertaBairro apresenta seis telas principais para monitoramento territorial, a
 
 
 ### 2. Monitoramento de chuvas
+<img width="1359" height="635" alt="image" src="https://github.com/user-attachments/assets/630028cb-e542-4ea9-93aa-85e43e0bff87" />
 
 
 ### 3. Ocorrências por região
+<img width="1364" height="633" alt="image" src="https://github.com/user-attachments/assets/ee1f47dd-c3c0-4dab-a71a-0ab599ac7ecb" />
 
 
 ### 4. Impacto social
+<img width="1364" height="633" alt="image" src="https://github.com/user-attachments/assets/a2c6f295-2181-470b-8807-c7dfdfe35af9" />
 
 
 ### 5. Central de alertas
+<img width="1361" height="629" alt="image" src="https://github.com/user-attachments/assets/e6f0a211-dd2c-4ace-b826-4e62bc32f465" />
 
 
 ### 6. Registro de ocorrência
+<img width="1365" height="631" alt="image" src="https://github.com/user-attachments/assets/4e576177-eafe-4afa-bd8b-834ba5afd3de" />
 
 
 ## Tecnologias utilizadas
