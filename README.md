@@ -118,7 +118,7 @@ lib/
 Clone o repositório:
 
 ```bash
-git clone 
+git clone https://github.com/Periato/GS-CPAD2
 ```
 
 Entre na pasta do projeto:
